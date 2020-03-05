@@ -1,8 +1,7 @@
 # Divi Template ( Original RTL Version )
-> RTL Coded By [Ali Javdi](https://javadi.ml)
+> This RTL Version is Coded By [Ali Javdi](https://javadi.ml)
 
 ![GitHub Logo](/Divi/screenshot.jpg)
-Format: ![Alt Text](url)
 
 ## Installation 
 
